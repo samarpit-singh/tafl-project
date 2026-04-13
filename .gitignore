@@ -1,2 +1,4 @@
-node_modules
-requirements.txt
+node_modules/
+.env
+dist/
+build/
