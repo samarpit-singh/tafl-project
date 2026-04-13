@@ -12,4 +12,4 @@ This tool is used to convert [non-deterministic finite automata](https://en.wiki
   - All at once  
   - Animated  
 
-## Technology
+
